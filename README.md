@@ -42,7 +42,7 @@ Add the x's to each task/component you've completed:
 - [ ] Verify that `Garage.js` is not directly interacting with the UI
 - [ ] Verify that `GarageApp.js` is controlling the UI and not directly interacting
 - [ ] Thoroughly tested all UI functionality and features (basic open/close; auto-close support; showing state, including faults; light settings and behavior; etc.)
-- [ ] Thoroughly test all remote functionality (displaing states, door control, light control)
+- [ ] Thoroughly test all remote functionality (displaying states, door control, light control)
 - [ ] Completed the `README.md`
 - [ ] Committed your code and pushed it to GitHub
 - [ ] Verified your final code is on GitHub
